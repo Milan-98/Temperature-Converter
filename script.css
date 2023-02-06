@@ -1,0 +1,36 @@
+.celsius{
+    border: 1px lightgrey solid;
+    height: 30px;
+    width: 300px;
+    text-align: center;
+    font-size: large;
+}
+.fheat{
+    width: 300px;
+    height: 30px;
+    border: 1px lightgray solid;
+    text-align: center;
+    font-size: large;
+    
+}
+.first{
+    border: 1px lightgray solid;
+    margin-right: 100px;
+    font-size: larger;
+    
+    text-align: center;
+}
+.second{
+    text-align: center;
+    border: 1px lightgray solid;
+    
+    font-size: larger;
+    margin-left: 100px;
+
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+};
