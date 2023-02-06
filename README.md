@@ -22,7 +22,7 @@
 
  In this project i learned about text input event properties like "input", "change", "blur", "focus".
 
- In this one i use "input" eventsand value propertie.
+ In this one i use "input" events and value propertie.
 
 
 
